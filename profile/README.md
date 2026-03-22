@@ -10,11 +10,12 @@ Open-source tools for stable, cross-platform manga reading.
 - [.github](https://github.com/wahonlabs/.github)  
   Organization profile, contribution defaults, and shared community policies.
 
-## Roadmap and Docs
+## Current Focus
 
-- [Development Roadmap](https://github.com/wahonlabs/Wahon/blob/main/PLANS.md)
-- [Architecture](https://github.com/wahonlabs/Wahon/blob/main/ARCHITECTURE.md)
-- [Manual Testing Runbook](https://github.com/wahonlabs/Wahon/blob/main/MANUAL_TEST.md)
+- Stabilize source compatibility with a universal extension runtime path.
+- Improve reading reliability and resume consistency in real-world usage.
+- Keep data durable across updates and schema migrations.
+- Ship a stable daily-reading release candidate for Android and iOS.
 
 ## Contribution and Licensing
 
@@ -27,4 +28,3 @@ Open-source tools for stable, cross-platform manga reading.
 
 - Report bugs or request features via [Issues](https://github.com/wahonlabs/Wahon/issues)
 - Design/implementation discussions: [Discussions](https://github.com/wahonlabs/Wahon/discussions)
-
